@@ -1,0 +1,22 @@
+[
+   {
+       "firstName": "Madalin",
+       "age": 25,
+       "human": true
+   },
+   {
+       "firstName": "Adrian",
+       "age": 25,
+       "human": false   
+   },
+   {
+        "firstName": "Mihai",
+        "age": 25,
+        "human": true  
+   },
+   {
+        "firstName": "Radu",
+        "age": 25,
+        "human": true  
+   }
+]
